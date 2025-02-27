@@ -5,7 +5,7 @@ Library komponen modal untuk framework NexaUI.
 ## Instalasi
 
 ```bash
-nexa i @nexaui/bundle
+nexa i public@nexaui/bundle
 ```
 
 ## Penggunaan Dasar
