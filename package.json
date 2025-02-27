@@ -1,0 +1,8 @@
+{
+  "app": "nexaUi-form",
+  "version": "1.0.0",
+  "developer": "tatiye.net",
+  "root": {
+    "assets": "assets"
+  }
+} 
